@@ -1,4 +1,4 @@
-public class Lab1_Variant20_Group_Chasovskaya {
+public class Lab1_Variant20_Group23_isp_1_Chasovskaya {
     public static void main(String[] args) {
         //первое
         double pounds = 15.5;
